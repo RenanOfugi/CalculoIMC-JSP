@@ -52,4 +52,4 @@ local.properties
 .recommenders/
 
 # build directory
-/build
+build/
